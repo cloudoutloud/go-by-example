@@ -3,9 +3,8 @@ package main
 import (
 	"fmt"
 	"math"
-	
 )
-	
+
 // act like a var but can define outside func
 const s string = "constant"
 
